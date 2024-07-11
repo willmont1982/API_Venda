@@ -24,7 +24,8 @@ De: Pagamento Aprovado Para: Cancelada
 
 De: Enviado para Transportador. Para: Entregue
 
-
-
 A API não precisa ter mecanismos de autenticação/autorização;
 A aplicação não precisa implementar os mecanismos de persistência em um banco de dados, eles podem ser persistidos "em memória".
+
+-----------------------------------------------------
+Execute a aplicação e acesse a documentação Swagger em http://localhost:8080/swagger-ui.html.
